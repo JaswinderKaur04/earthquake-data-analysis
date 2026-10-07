@@ -21,7 +21,7 @@ jobs:
 
       - name: Check Python files
         run: |
-          python -m py_compile earthquake/E_fetch.py
-          python -m py_compile earthquake/E_cleaning.py
-          python -m py_compile earthquake/E_main.py
-          python -m py_compile earthquake/E_visualization.py
+	  python -m py_compile E_fetch.py
+	  python -m py_compile E_cleaning.py
+	  python -m py_compile E_main.py
+	  python -m py_compile E_visualization.py

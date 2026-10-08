@@ -11,12 +11,12 @@ import numpy as np
 # -------------------------------
 plt.style.use('dark_background')
 
-BG_COLOR = "#08090d" 
-CYAN = "#00f7ff" 
-GOLD = "#ffc107" 
-RED = "#ff3e3e" 
-WHITE = "#ffffff"
-GREY = "#4f5b66"
+BG_COLOR = "#FF0000" 
+CYAN = "#FF0000" 
+GOLD = "#0000FF" 
+RED = "#0000FF" 
+WHITE = "#00FF00"
+GREY = "#00FF00"
 
 # -------------------------------
 # 2. Data Loading
